@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Kokabieli"
+title = "kokabieli"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
